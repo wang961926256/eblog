@@ -1,7 +1,6 @@
 <#include "/inc/layout.ftl"/>
 <@layout "首页">
 
-
 <#include "/inc/header-panel.ftl"/>
 
 <div class="layui-container">
@@ -127,43 +126,36 @@
         <dl class="fly-panel fly-list-one">
             <dt class="fly-panel-title">本周热议</dt>
             <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
+                <a href="post/detail.html">基于 layui 的极简社区页面模版</a>
                 <span><i class="iconfont icon-pinglun1"></i> 16</span>
             </dd>
             <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
+                <a href="post/detail.html">基于 layui 的极简社区页面模版</a>
                 <span><i class="iconfont icon-pinglun1"></i> 16</span>
             </dd>
             <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
+                <a href="post/detail.html">基于 layui 的极简社区页面模版</a>
                 <span><i class="iconfont icon-pinglun1"></i> 16</span>
             </dd>
             <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
+                <a href="post/detail.html">基于 layui 的极简社区页面模版</a>
                 <span><i class="iconfont icon-pinglun1"></i> 16</span>
             </dd>
             <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
+                <a href="post/detail.html">基于 layui 的极简社区页面模版</a>
                 <span><i class="iconfont icon-pinglun1"></i> 16</span>
             </dd>
             <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
+                <a href="post/detail.html">基于 layui 的极简社区页面模版</a>
                 <span><i class="iconfont icon-pinglun1"></i> 16</span>
             </dd>
             <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
+                <a href="post/detail.html">基于 layui 的极简社区页面模版</a>
                 <span><i class="iconfont icon-pinglun1"></i> 16</span>
             </dd>
             <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
-                <span><i class="iconfont icon-pinglun1"></i> 16</span>
-            </dd>
-            <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
-                <span><i class="iconfont icon-pinglun1"></i> 16</span>
-            </dd>
-            <dd>
-                <a href="jie/detail.html">基于 layui 的极简社区页面模版</a>
+                <a href="post
+                /detail.html">基于 layui 的极简社区页面模版</a>
                 <span><i class="iconfont icon-pinglun1"></i> 16</span>
             </dd>
 

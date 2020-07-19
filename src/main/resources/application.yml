@@ -1,11 +1,14 @@
+# DataSource Config
 spring:
-  profiles:
-    active: vm
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/eblog?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password: root
+  freemarker:
+    settings:
+      classic_compatible: true
+      datetime_format: yyyy-MM-dd HH:mm
+      number_format: 0.##
 mybatis-plus:
   mapper-locations: classpath*:/mapper/**Mapper.xml
-file:
-  upload:
-    dir: ${user.dir}/upload
-im:
-  server:
-    port: 9326
